@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cassert": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp"
+    }
+}

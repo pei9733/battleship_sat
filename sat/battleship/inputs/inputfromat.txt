@@ -1,0 +1,14 @@
+3    maxlength of the ship
+3    number of ship of length 1
+2    number of ship of length 2
+1    number of ship of length 3
+6    row length(I)
+6    column length(J)
+3,0,2,2,1,2     row tally
+0,4,0,4,1,1     column tally
+0   i1
+4   j1
+0   ship segment 1
+5   i2
+3   j2
+1   ship segment 2 
